@@ -1,0 +1,99 @@
+/* Stylesheet for project 04
+    by Karen Bartlett */
+
+body {
+    padding: 1em 2em 1em 2em;
+    text-align: center;
+    background-image: url("images/tealBackground.jpg");
+}
+
+div.container {
+    background-color: white;
+}
+
+.jumbotron {
+    background-color: white;
+    color: teal;
+    margin-bottom: 0;
+}
+
+.navbar-default {
+    color: teal;
+}
+
+h3 {
+    color: white;
+    margin-top: 4em;
+}
+
+p {
+    color: white;
+}
+
+
+.error {
+    color: white;
+}
+
+.error_message {
+    background-color: white;
+    color: red;
+}
+
+article {
+    background-color: white;
+    text-align: left;
+    padding: 1em;
+}
+
+.bookDisplay {
+    text-align: center;
+    margin-bottom: 2em;
+    padding: 1em;
+}
+
+.cover-image {
+    text-align: center;
+    height: 24em;
+}
+
+.cover-image img {
+    width: 200px;
+    height: auto;
+}
+
+/* form elements */
+form {
+    background-color: white;
+    padding: 1em;
+    text-align: left;
+}
+
+legend {
+    color: teal;
+}
+
+textarea {
+    width: 60%;
+    height: 10em;
+}
+
+#submit {
+    margin-top: 1em;
+    clear: both;
+}
+
+strong {
+    color: teal;
+    font-size: 1.5em;
+}
+
+button {
+    color: teal;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.buttonHolder {
+    text-align: center;
+}
